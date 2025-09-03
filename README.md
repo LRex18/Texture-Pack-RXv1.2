@@ -10,7 +10,7 @@ Este proyecto fue creado en 2023 y **actualizado** hasta 2025.
 
 ![Nueva Textura Botiquines](https://github.com/user-attachments/assets/27daa257-ffdb-4324-a0ef-ca5a1f52a8c8)
 
- - ¿Sules construir o editar? Goza de esta nueva experiencia en **modo edición**!
+ - ¿Sueles construir o editar? Goza de esta nueva experiencia en **modo edición**!
 
 ![ModeEdit Texturas](https://github.com/user-attachments/assets/5ed98ed7-ae83-42c5-aad7-dd223386a7e7)
 
