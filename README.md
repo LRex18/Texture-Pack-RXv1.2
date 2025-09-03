@@ -26,7 +26,7 @@ Este proyecto fue creado en 2023 y **actualizado** hasta 2025.
 
 Acá te dejo un vídeo tutorial breve de como equipar el Texture Pack (YouTube)
 
- ![Tutorial instalación](https://youtu.be/aJjW2HVS9hM)
+ [Mira el video en YouTube](https://youtu.be/aJjW2HVS9hM)
 
 ## DESCARGA:
 
