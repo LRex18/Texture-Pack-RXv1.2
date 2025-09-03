@@ -22,6 +22,12 @@ Este proyecto fue creado en 2023 y **actualizado** hasta 2025.
 
   ![ModeEdit Texturas](https://github.com/user-attachments/assets/f37cd9db-48a8-4618-8f65-2c6f827272e7)
 
+## TUTORIAL:
+
+Acá te dejo un vídeo tutorial breve de como equipar el Texture Pack (YouTube)
+
+ ![Tutorial instalación](https://youtu.be/aJjW2HVS9hM)
+
 ## DESCARGA:
 
 Descarga la versión más actual del Texture Pack (incluye versión, .assets y .resources necesarios + un archivo .bat que automatiza el proceso de instalación).
